@@ -1,0 +1,5 @@
+2 packege is is use in this practice polder
+
+npm i express       ===(express) packege        --- Production hisebe use kortese
+npm i nodemon - D   ===(nodemon) packege        --- dependencies hisebe use kortese
+
